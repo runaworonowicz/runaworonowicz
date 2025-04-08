@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Python, APIs, Machine learning, DevOps, Salesforce
 - 💞️ I’m looking to collaborate on Enterprise projects
 - 📫 How to reach me runa.woronowicz@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 runaworonowicz/runaworonowicz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
